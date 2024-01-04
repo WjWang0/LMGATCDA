@@ -1,4 +1,4 @@
-# Line Graph Neural Networks for Link Prediction
+# LMGATCDA: Graph neural network with labeling trick for predicting circRNA-disease associations
 
 
 
